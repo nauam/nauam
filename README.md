@@ -1,8 +1,6 @@
 ## Olá, sou Nauam Oliveira
 
-Analista de Desenvolvimento de Sistemas
-
-Graduando em Engenharia Eletrônica pela Universidade de Brasília
+Analista de Desenvolvimento de Sistemas e Engenheiro Eletrônico pela Universidade de Brasília
 
 <div align="center">
   <a href="https://github.com/nauam">
