@@ -4,8 +4,8 @@ Desenvolvedor Pleno Full Stack e Engenheiro Eletrônico pela Universidade de Bra
 
 <div align="center">
   <a href="https://github.com/nauam">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nauam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauam&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nauam&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauam&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
   
 <div style="display: inline_block"><br>
