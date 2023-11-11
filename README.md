@@ -29,3 +29,31 @@ Desenvolvedor Pleno Full Stack e Engenheiro Eletrônico pela Universidade de Bra
   ![Snake animation](https://raw.githubusercontent.com/nauam/nauam/output/github-contribution-grid-snake.svg)
  
 </div>
+
+## Nomenclatura dos Repositórios
+
+Os prefixos apropriados para garantir uma nomenclatura consistente e facilitar a organização:
+
+### Categoria Geral
+
+- **Projetos:** `project` - Repositórios dedicados a projetos específicos, sejam eles pessoais ou profissionais.
+- **Cursos:** `course` - Repositórios relacionados a materiais de cursos e aprendizado.
+- **UnB:** `unb` - Repositórios específicos para projetos ou trabalhos relacionados à Universidade de Brasília.
+- **Outros:** `misc` - Outros tipos de projetos ou repositórios que não se enquadram nas categorias anteriores.
+
+### Aplicação de Padrões
+
+- **Padrões:** `pattern` - Repositórios destinados a padrões de código, arquitetura ou práticas recomendadas.
+
+### Plataformas
+
+- **Web:** `web` - Projetos voltados para desenvolvimento web.
+- **Mobile:** `mobile` - Projetos específicos para desenvolvimento mobile.
+- **API:** `api` - Repositórios relacionados à implementação de APIs.
+- **App:** `app` - Aplicações completas, incluindo front-end e back-end, para dispositivos móveis ou web.
+
+### Tecnologias
+
+- **Spring:** `spring` - Projetos utilizando a framework Spring.
+- **React:** `react` - Projetos desenvolvidos com a biblioteca React.
+- **Node:** `node` - Projetos envolvendo o uso da tecnologia Node.js.
