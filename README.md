@@ -37,13 +37,10 @@ Os prefixos apropriados para garantir uma nomenclatura consistente e facilitar a
 ### Categoria Geral
 
 - **Projetos:** `project` - Repositórios dedicados a projetos específicos, sejam eles pessoais ou profissionais.
+- **Padrões:** `pattern` - Repositórios destinados a padrões de código, arquitetura ou práticas recomendadas.
 - **Cursos:** `course` - Repositórios relacionados a materiais de cursos e aprendizado.
 - **UnB:** `unb` - Repositórios específicos para projetos ou trabalhos relacionados à Universidade de Brasília.
 - **Outros:** `misc` - Outros tipos de projetos ou repositórios que não se enquadram nas categorias anteriores.
-
-### Aplicação de Padrões
-
-- **Padrões:** `pattern` - Repositórios destinados a padrões de código, arquitetura ou práticas recomendadas.
 
 ### Plataformas
 
